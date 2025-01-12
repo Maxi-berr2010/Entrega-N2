@@ -1,0 +1,65 @@
+h1{
+    color: black;
+    padding: 20px;
+    font-size: 35px;
+    font-style: italic;
+    background-color: green;
+}
+.fondo{
+    background-color: black;
+}
+.Secciones{
+    background-color: green;
+    font-size: 40px;
+}
+.li{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 25px;
+    font-style: italic;
+    background-color: green;
+}
+.titulosMenú{
+    color: black;
+    padding: 20px;
+    font-size: 35px;
+    font-style: italic;
+    background-color: green;
+}
+.PlatosPrincipales{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.presentacion{
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    background-color: green;
+    display: inline-block;
+}
+.todo{
+    display: grid;
+    grid-template-columns: 25% 75%;
+}
+.imagen1{
+    position: relative;
+    top: 20%;
+    display: flex;
+    padding: 10px;
+    height: 180px;
+}
+.contacto{
+    color: black;
+    padding: 20px;
+    font-size: 35px;
+    font-style: italic;
+    background-color: green;
+}
+.contactos{
+    color: black;
+    padding: 20px;
+    font-size: 25px;
+    font-style: italic;
+    background-color: green;
+}
