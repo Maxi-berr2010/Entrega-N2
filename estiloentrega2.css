@@ -51,15 +51,43 @@ h1{
 }
 .contacto{
     color: black;
-    padding: 20px;
     font-size: 35px;
     font-style: italic;
     background-color: green;
+    padding: 10px;
+    border: 7px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 .contactos{
     color: black;
-    padding: 20px;
+    padding: 30px;
     font-size: 25px;
     font-style: italic;
     background-color: green;
+    display: flex;
+    margin-left: 10px;
+    justify-content: center;
+    border: 7px;
+    text-align: center;
+}
+.UsoDeFlex{
+    display: flex;
+    justify-content: center;
+    border: 10px;
+    padding: 20px;
+}
+.contactos1{
+    color: black;
+    padding: 10px;
+    font-size: 35px;
+    font-style: italic;
+    background-color: green;
+    display: flex;
+    margin-left: 10px;
+    justify-content: center;
+    margin-top: 20px;
+    border: 7px;
+    text-align: center;
 }
